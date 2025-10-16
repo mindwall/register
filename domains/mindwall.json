@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "mindwall",
+    "email": "https://x.com/M1ndWall"
+  },
+  "records": {
+    "CNAME": "http://mindwall.duckdns.org/"
+  }
+}
